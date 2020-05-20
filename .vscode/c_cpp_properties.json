@@ -11,8 +11,9 @@
                 "_UNICODE"
             ],
             "cStandard": "c11",
-            "intelliSenseMode": "clang-x64",
-            "compilerPath": "C:\\cygwin\\bin\\c++.exe"
+            "intelliSenseMode": "${default}",
+            "compilerPath": "C:/cygwin/bin/g++.exe",
+            "cppStandard": "c++17"
         }
     ],
     "version": 4
